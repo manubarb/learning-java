@@ -1,4 +1,5 @@
 # Roteiro de estudo
-## Classes e objetos
-## Herança e polimorfismo
-## Agrupamentos de objetos
+Assuntos estudados:
+- Classes e objetos
+- Herança e polimorfismo
+- Agrupamentos de objetos
